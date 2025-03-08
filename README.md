@@ -17,7 +17,7 @@ cd 0g-Auto-TX
 ### 3. Instal Dependency
 
 ```bash
-npm install
+npm install colors figlet dotenv ethers readline-sync
 ```
 
 ### 4. Edit and Configurate .env File Then Save Your Private Key (CTRL+X, Y enter)
