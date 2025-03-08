@@ -11,7 +11,7 @@ git clone https://github.com/Bos-D-Kecil/0g-Auto-TX.git
 
 ### 2. Go To Bot Directory
 ```
-cd 0G-AUTO-TX
+cd 0g-Auto-TX
 ```
 
 ### 3. Instal Dependency
