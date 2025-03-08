@@ -6,12 +6,12 @@
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/wojacks/0G-Labs-auto-tx.git
+git clone https://github.com/Bos-D-Kecil/0g-Auto-TX.git
 ```
 
 ### 2. Go To Bot Directory
 ```
-cd 0G-Labs-auto-tx
+cd 0G-AUTO-TX
 ```
 
 ### 3. Instal Dependency
@@ -29,7 +29,7 @@ nano .env
 ### 5. Run script & Make Daily Transaction
 
 ```bash
-npm start
+node main.js
 ```
 
 Last updated: 
